@@ -1,10 +1,15 @@
 ### Universidade Federal de Pernambuco (UFPE) (http://www.ufpe.br)
+
 ### Centro de Informática (CIn) (http://www.cin.ufpe.br)
+
 ### Graduando em Sistemas de Informação
+
 ### IF969 - Algoritmos e Estrutura de Dados
 
 ### Autor: Vinícius Luiz da Silva França (vlsf2)
+
 ### Email: vlsf2@cin.ufpe.br
+
 ### Data: 2020-10-01
 
 ### Copyright(c) 2020 Vinícius Luiz da Silva França
@@ -76,39 +81,56 @@
 > > CAD Andre 37
 > > CAD Francisco 65
 > > CAD Kaique 76
-> > CAD Bruna 28
-> > CAD Danilo 87
-> > CAD Yuri 3
-> > CAD Giovanna 68
-> > CAD Leticia 47
-> > CAD Sara 17
-> > CAD Vicente 39
-> > CAD Theo 46
-> > CAD Kaique 78
-> > CAD Maya 14
-> > CAD Clarice 78
-> > CAD Lucas 99`
+> > > > CAD Bruna 28
+> > > > CAD Danilo 87
+> > > > CAD Yuri 3
+> > > > CAD Giovanna 68
+> > > > CAD Leticia 47
+> > > > CAD Sara 17
+> > > > CAD Vicente 39
+> > > > CAD Theo 46
+> > > > CAD Kaique 78
+> > > > CAD Maya 14
+> > > > CAD Clarice 78
+> > > > CAD Lucas 99`
 >
 > > Sample output #1
 > >
 > > Marina (1) foi alocado(a) na fileira 1
+> >
 > > Andre (2) foi alocado(a) na fileira 1
+> >
 > > Francisco (3) foi alocado(a) na fileira 1
+> >
 > > Kaique (4) foi alocado(a) na fileira 1
+> >
 > > Bruna (5) foi alocado(a) na fileira 1
+> >
 > > Danilo (6) foi alocado(a) na fileira 1
+> >
 > > Yuri (7) foi alocado(a) na fileira 1
+> >
 > > Giovanna (8) foi alocado(a) na fileira 1
+> >
 > > Leticia (9) foi alocado(a) na fileira 1
+> >
 > > Sara (10) nao foi alocado(a) em nenhuma fileira
+> >
 > > Vicente (11) foi alocado(a) na fileira 1
+> >
 > > Theo (12) foi alocado(a) na fileira 1
+> >
 > > Kaique (13) foi alocado(a) na fileira 1
+> >
 > > Maya (14) nao foi alocado(a) em nenhuma fileira
+> >
 > > Clarice (15) foi alocado(a) na fileira 1
+> >
 > > Lucas (16) foi alocado(a) na fileira 1
 
 > > Sample Input #2
+> >
+> > <<<<<<< HEAD
 > >
 > > `3 4
 > > 28
@@ -144,35 +166,64 @@
 > > Sample output #2
 > >
 > > Carolina (1) foi alocado(a) na fileira 1
+> >
 > > Fernando (2) foi alocado(a) na fileira 1
+> >
 > > Bruno (3) foi alocado(a) na fileira 1
+> >
 > > Rodrigo (4) foi alocado(a) na fileira 1
+> >
 > > Gabriela (5) foi alocado(a) na fileira 2
+> >
 > > Ian (6) foi alocado(a) na fileira 2
+> >
 > > Lara (7) foi alocado(a) na fileira 2
+> >
 > > Breno (8) foi alocado(a) na fileira 2
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Milena (9) foi alocado(a) na fileira 3
+> >
 > > Inexistente
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Cecilia (10) foi alocado(a) na fileira 3
+> >
 > > Antonio (11) foi alocado(a) na fileira 3
+> >
 > > Camila (12) foi alocado(a) na fileira 3
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Theo (13) foi alocado(a) na fileira 2
+> >
 > > Sem assento
+> >
 > > Joao (14) foi alocado(a) na fileira 3
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Cecilia (15) foi alocado(a) na fileira 2
+> >
 > > Sem assento
+> >
 > > Sem assento
+> >
 > > Sem assento
+> >
 > > Sentado(a) na fileira 3
+> >
 > > Sentado(a) na fileira 3
+> >
 > > Sentado(a) na fileira 1
 
 > > Simple Input #3
+> >
+> > <<<<<<< HEAD
 > >
 > > `2 2
 > > 23
@@ -203,25 +254,47 @@
 > > Simple Output #3
 > >
 > > Eraldo (1) foi alocado(a) na fileira 1
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Wilson (2) foi alocado(a) na fileira 1
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Guilherme (3) foi alocado(a) na fileira 2
+> >
 > > Pedro (4) foi alocado(a) na fileira 2
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Julio (5) foi alocado(a) na fileira 1
+> >
 > > Sem assento
+> >
 > > Diego (6) foi alocado(a) na fileira 2
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Sem assento
+> >
 > > Removido(a)
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Marcson (7) foi alocado(a) na fileira 1
+> >
 > > Sentado(a) na fileira 1
+> >
 > > Sem assento
+> >
 > > Sem assento
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Inexistente
+> >
 > > Inexistente
+> >
 > > Sentado(a) na fileira 2
+> >
 > > Sentado(a) na fileira 1
