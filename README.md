@@ -92,7 +92,7 @@
 > > CAD Kaique 78  
 > > CAD Maya 14  
 > > CAD Clarice 78  
-> > CAD Lucas 99`  
+> > CAD Lucas 99  `
 >
 > > Sample output #1
 > >
@@ -159,7 +159,7 @@
 > > VER Camila 12  
 > > VER Joao 14  
 > > VER Antonio 11  
-> > VER Bruno 3`  
+> > VER Bruno 3  `
 >
 > > Sample output #2
 > >
@@ -245,7 +245,7 @@
 > > VER Julio 5  
 > > VER Diego 5  
 > > VER Diego 6  
-> > VER Marcson 7`  
+> > VER Marcson 7  `
 >
 > > Simple Output #3
 > >
