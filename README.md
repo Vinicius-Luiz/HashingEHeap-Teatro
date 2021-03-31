@@ -75,7 +75,7 @@
 
 Sample Input #1  
 
-`1 8  
+1 8  
 16  
 CAD Marina 81  
 CAD Andre 37  
@@ -92,7 +92,7 @@ CAD Theo 46
 CAD Kaique 78  
 CAD Maya 14  
 CAD Clarice 78  
-CAD Lucas 99  `
+CAD Lucas 99 
 
 > Sample output #1
 > 
@@ -130,7 +130,7 @@ CAD Lucas 99  `
 
 Sample Input #2
 
-`3 4  
+3 4  
 28  
 CAD Carolina 58  
 CAD Fernando 45  
@@ -159,7 +159,7 @@ VER Gabriela 5
 VER Camila 12  
 VER Joao 14  
 VER Antonio 11  
-VER Bruno 3  `
+VER Bruno 3 
 
 > Sample output #2
 > 
@@ -221,7 +221,7 @@ VER Bruno 3  `
 
 Simple Input #3
 
-`2 2  
+2 2  
 23  
 CAD Eraldo 40  
 VER Eraldo 1  
@@ -245,7 +245,7 @@ VER Pedro 4
 VER Julio 5  
 VER Diego 5  
 VER Diego 6  
-VER Marcson 7  `
+VER Marcson 7  
 
 > Simple Output #3
 > 
