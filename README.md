@@ -75,24 +75,24 @@
 
 > > Sample Input #1
 > >
-> > `1 8
-> > 16
-> > CAD Marina 81
-> > CAD Andre 37
-> > CAD Francisco 65
-> > CAD Kaique 76
-> > > > CAD Bruna 28
-> > > > CAD Danilo 87
-> > > > CAD Yuri 3
-> > > > CAD Giovanna 68
-> > > > CAD Leticia 47
-> > > > CAD Sara 17
-> > > > CAD Vicente 39
-> > > > CAD Theo 46
-> > > > CAD Kaique 78
-> > > > CAD Maya 14
-> > > > CAD Clarice 78
-> > > > CAD Lucas 99`
+> > `1 8  
+> > 16  
+> > CAD Marina 81  
+> > CAD Andre 37  
+> > CAD Francisco 65  
+> > CAD Kaique 76  
+> > CAD Bruna 28  
+> > CAD Danilo 87  
+> > CAD Yuri 3  
+> > CAD Giovanna 68  
+> > CAD Leticia 47  
+> > CAD Sara 17  
+> > CAD Vicente 39  
+> > CAD Theo 46  
+> > CAD Kaique 78  
+> > CAD Maya 14  
+> > CAD Clarice 78  
+> > CAD Lucas 99`  
 >
 > > Sample output #1
 > >
@@ -130,38 +130,36 @@
 
 > > Sample Input #2
 > >
-> > <<<<<<< HEAD
-> >
-> > `3 4
-> > 28
-> > CAD Carolina 58
-> > CAD Fernando 45
-> > CAD Bruno 54
-> > CAD Rodrigo 10
-> > CAD Gabriela 1
-> > CAD Ian 61
-> > CAD Lara 37
-> > CAD Breno 66
-> > VER Rodrigo 4
-> > CAD Milena 16
-> > VER Gabriela 48
-> > VER Carolina 1
-> > VER Ian 6
-> > CAD Cecilia 86
-> > CAD Antonio 66
-> > CAD Camila 7
-> > VER Gabriela 5
-> > CAD Theo 8
-> > VER Gabriela 5
-> > CAD Joao 45
-> > VER Breno 8
-> > CAD Cecilia 88
-> > VER Theo 13
-> > VER Gabriela 5
-> > VER Camila 12
-> > VER Joao 14
-> > VER Antonio 11
-> > VER Bruno 3`
+> > `3 4  
+> > 28  
+> > CAD Carolina 58  
+> > CAD Fernando 45  
+> > CAD Bruno 54  
+> > CAD Rodrigo 10  
+> > CAD Gabriela 1  
+> > CAD Ian 61  
+> > CAD Lara 37  
+> > CAD Breno 66  
+> > VER Rodrigo 4  
+> > CAD Milena 16  
+> > VER Gabriela 48  
+> > VER Carolina 1  
+> > VER Ian 6  
+> > CAD Cecilia 86  
+> > CAD Antonio 66  
+> > CAD Camila 7  
+> > VER Gabriela 5  
+> > CAD Theo 8  
+> > VER Gabriela 5  
+> > CAD Joao 45  
+> > VER Breno 8  
+> > CAD Cecilia 88  
+> > VER Theo 13  
+> > VER Gabriela 5  
+> > VER Camila 12  
+> > VER Joao 14  
+> > VER Antonio 11  
+> > VER Bruno 3`  
 >
 > > Sample output #2
 > >
@@ -223,33 +221,31 @@
 
 > > Simple Input #3
 > >
-> > <<<<<<< HEAD
-> >
-> > `2 2
-> > 23
-> > CAD Eraldo 40
-> > VER Eraldo 1
-> > CAD Wilson 30
-> > VER Wilson 2
-> > CAD Guilherme 35
-> > CAD Pedro 39
-> > VER Pedro 4
-> > CAD Julio 48
-> > VER Wilson 2
-> > CAD Diego 45
-> > VER Diego 6
-> > VER Guilherme 3
-> > REM Julio 5
-> > VER Guilherme 3
-> > CAD Marcson 49
-> > VER Eraldo 1
-> > VER Wilson 2
-> > VER Guilherme 3
-> > VER Pedro 4
-> > VER Julio 5
-> > VER Diego 5
-> > VER Diego 6
-> > VER Marcson 7`
+> > `2 2  
+> > 23  
+> > CAD Eraldo 40  
+> > VER Eraldo 1  
+> > CAD Wilson 30  
+> > VER Wilson 2  
+> > CAD Guilherme 35  
+> > CAD Pedro 39  
+> > VER Pedro 4  
+> > CAD Julio 48  
+> > VER Wilson 2  
+> > CAD Diego 45  
+> > VER Diego 6  
+> > VER Guilherme 3  
+> > REM Julio 5  
+> > VER Guilherme 3  
+> > CAD Marcson 49  
+> > VER Eraldo 1  
+> > VER Wilson 2  
+> > VER Guilherme 3  
+> > VER Pedro 4  
+> > VER Julio 5  
+> > VER Diego 5  
+> > VER Diego 6  
+> > VER Marcson 7`  
 >
 > > Simple Output #3
 > >
